@@ -66,7 +66,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Diabetes Patients Hospital Readmission](https://github.com/yourusername/diabetes-readmission) | Exploratory Data Analysis and feature engineering on a dataset of 100k+ records from 130 US hospitals (1999-2008). Balanced class imbalance and trained four models (Logistic Regression, XGBoost, Random Forest, Neural Network). Neural Network achieved best accuracy: 77%. | Python, scikit-learn, XGBoost, Neural Networks |
+| [Diabetes Patients Hospital Readmission](https://github.com/ShilpaThomas980/data-science-portfolio/tree/main/Medical/diabetes_us_hospitals_1999) | Exploratory Data Analysis and feature engineering on a dataset of 100k+ records from 130 US hospitals (1999-2008). Balanced class imbalance and trained four models (Logistic Regression, XGBoost, Random Forest, Neural Network). Neural Network achieved best accuracy: 77%. | Python, scikit-learn, XGBoost, Neural Networks |
 | [Power BI Dashboard - Supply Chain Management System](https://github.com/ShilpaThomas980/Power-BI-Dashboards/blob/main/Supply%20Chain%20Management/Supply%20Chain%20System%20(page%201).PNG) | Three-page Power BI dashboard analyzing Supply Quality & Control, Manufacturing Quality & Control, Inventory, and Logistics. | Power BI |
 | [Power BI Dashboard - HR Analytics](https://github.com/ShilpaThomas980/Power-BI-Dashboards) | Dynamic multi-page Power BI dashboard providing actionable insights into employee performance and workforce planning. Focus areas include retrenchment tracking, promotion readiness, job satisfaction, and performance ratings. Created as part of self-learning inspired by a tutorial. | Power BI |
 
